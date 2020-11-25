@@ -11,7 +11,7 @@ I have Tableau Desktop installed and licensed on my computer. Tableau offers a 1
 https://docs.snowflake.com/en/user-guide/odbc-download.html
 
 ### How to Use the SnowTel Workbook
-You can grab a copy of the workbook (TWBX) from this GitHub (or if you need the TWB because a browser will think a TWBX is a zip archive also from this GitHub). The workbook is version 0.3 of what I plan to make many improvements on an almost monthly basis. I have it divided into 4 dashboards for now.  Two informational sheets looking at the query hierarchy and a landing page are also included.
+You can grab a copy of the workbook (TWBX) from this GitHub, or if you need the TWB because a browser will think a TWBX is a zip archive also from this GitHub. The workbook is version 0.3 of what I plan to make many improvements on an almost monthly basis. I have it divided into 4 dashboards for now.  Two informational sheets looking at the query hierarchy and a landing page are also included.
 1. Warehouse Health (WH - Query Time)
 1. Warehouse Query History (WH - Queries over Time)
 1. Queries Dashboard
